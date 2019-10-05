@@ -13,9 +13,9 @@ jobs:
       run: echo Hello, world!
     - name: Run a multi-line script
       run: |
-        echo Add other actions to build,
-        echo test, and deploy your project.
-        pwd
-        ls -la
-        npm install --global sfdx-cli
+        echo Installing SFDX
+        wget https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
+        mkdir sfdx
+        tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
+        ./sfdx/install
         sfdx force:org:list
