@@ -19,5 +19,6 @@ jobs:
         tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
         ./sfdx/install
         ls -la
-        sfdx force:auth:jwt:grant -a paladin-packaging -u hls@paladingroup.com -f ./server.key -i 3MVG9KsVczVNcM8z8huEg2si11FMed0M_1Snx7qznMlDbRT5H2nLSBxomTYg_j6ZLYjMqIGRuexEOM6Dv1iw1 -r https://login.salesforce.com
+        pwd
+        sfdx force:auth:jwt:grant -a paladin-packaging -u hls@paladingroup.com -f server.key -i 3MVG9KsVczVNcM8z8huEg2si11FMed0M_1Snx7qznMlDbRT5H2nLSBxomTYg_j6ZLYjMqIGRuexEOM6Dv1iw1 -r https://login.salesforce.com
         
