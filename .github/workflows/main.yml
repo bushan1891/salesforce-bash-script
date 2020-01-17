@@ -18,11 +18,4 @@ jobs:
         mkdir sfdx
         tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
         ./sfdx/install
-        ls -la
-        pwd
-        cd /
-        ls -la
-        cd bin
-        ls -la
-        pwd
-        
+        sfdx force -h 
