@@ -1,0 +1,14 @@
+{
+    "MDAPI_RETRIEVE": {
+        "jobid": "09S19000002F2uFEAS",
+        "retrievetargetdir": "./deploy/",
+        "targetusername": "nagendra.balachandra@qsales.qualcomm.com.dev2"
+    },
+    "MDAPI_DEPLOY": {
+        "jobid": "0Af1700000tBh6eCAC",
+        "targetusername": "qualcomm-integrate"
+    },
+    "SOURCE_DEPLOY": {
+        "jobid": "0AfR000000e9ZcRKAU"
+    }
+}

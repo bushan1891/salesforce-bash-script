@@ -1,0 +1,10 @@
+{
+    "orgId": "00D190000001FQYEA2",
+    "accessToken": "17cac3ffc0d54d9bad7dfe88dccca34aa41e8e110a45b45da524173a48bb539aab6090770cf1987fdea08655e20498592b873777a89ba18ece0ab6be5050682b7022fc8fec01c47cbc2ffe7a9f276d9971b84cc4f6e216eb8cecb004f4d7ecf538a47971cca01d5a800613b959ef63cb2c4b3dca9182:8f0264423407e225d5c86317f25d94a7",
+    "refreshToken": "f71f051d29f2594cb92b4e118de0fd5f7bb186aba72991eb1204f97e9c8b2400b588889135ae098597f8a08cd3157e83fa49969e015bc17702c75cd78d92bcc2f1c17dbb2ec06bd593fbb4c69d1ff81e4f20584019bf359d0ff2b36d97:44c072efa549f4bc32719e04b205a3b6",
+    "instanceUrl": "https://qsales--DEV2.cs24.my.salesforce.com",
+    "loginUrl": "https://test.salesforce.com/",
+    "username": "nagendra.balachandra@qsales.qualcomm.com.dev2",
+    "clientId": "PlatformCLI",
+    "isDevHub": false
+}

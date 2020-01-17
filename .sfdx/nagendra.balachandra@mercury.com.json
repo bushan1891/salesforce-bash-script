@@ -1,0 +1,10 @@
+{
+    "orgId": "00D4P000001dgS3UAI",
+    "accessToken": "a0a92122c7445608fe63edbb6b7cccb1205ae01dae7cf43a17ae94c1c0647ac93b9289b333409758c3bf4c755f0a0f19f028cf5624eba62a0ce4c115dd82bc2450b49fe6dbdf5910f906fabb9b74b267d63921759873f9808ec7bfacace54e1fd7bcfe01d7ea252449c0df70931b1dac465b787579ae:6f0189ca41b3f5c4600443104d94f8ee",
+    "refreshToken": "c4c4ceb463779b9a76a50d2ef2ad451fc38b427779d63c9b8085f7365ea280b026a3abb6cb8286021fd6f36c5ea2506cd37fbd9a7d9117ff279564c6b50c8abf7dfd1996265249924b7fb89124ad9c842d204bbb8958106f5690c5ace6:2fc7865eb0a40f4a54fe45662ee07b9d",
+    "instanceUrl": "https://mercuryinsurance.my.salesforce.com",
+    "loginUrl": "https://login.salesforce.com/",
+    "username": "nagendra.balachandra@mercury.com",
+    "clientId": "PlatformCLI",
+    "isDevHub": false
+}
