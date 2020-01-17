@@ -20,3 +20,4 @@ jobs:
         ./sfdx/install
         sfdx force:auth:sfdxurl:store -f connection -a nagendra-labs
         sfdx force:org:list
+        sfdx force:org:display -u nagendra@jcs.labs --verbose
