@@ -1,0 +1,9 @@
+{
+    "orgId": "00D41000000ex8QEAQ",
+    "accessToken": "e6eed41b84334c4622b8d004b10efbaa78a3f894e7bb5bb260a12f18d1bdbaf17932c960642c7eceee81e3bcc88c2adb91a4e7deb02c861fd86aca3230400699c30b4c088bd14f1498e558306fe112942f2ce243b19d57d5f48d8a55444e5f4ccad734009f88916119c97b3ee17208cbe79c501c6fd5:28e45ebc5c16cd3f5343caf791e9c87f",
+    "refreshToken": "88b61b991d684e99423cab23dd2b561486487e80078bd909729c1fd8eaf257ed90feffd0b0fdbd3f798d1b0b51302dcb9a5301ce4f32b4ccb63e0766152ed223e2aa8343ff5f6637dec4a7c9e2889798b964df9e625648756d2f5a0132:1d15677529bfc048fb938fa0b28ade06",
+    "instanceUrl": "https://jcslabs-dev-ed.my.salesforce.com",
+    "loginUrl": "https://login.salesforce.com/",
+    "username": "nagendra@jcs.labs",
+    "clientId": "PlatformCLI"
+}
