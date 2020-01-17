@@ -1,9 +1,0 @@
-{
-    "orgId": "00Dn0000000ETWAEA4",
-    "accessToken": "8a79893cb79f15dd12c39927502a14b9306ab602a2f1c4b5cfb06d4771655d42b8d47b690b07967f4756b12b349208f9f1d8dfffa0d56f85ef3bce60403d7c860e389331ea77a23c28d7c281dd0d900eb54e7fc64016295959f7487cc5822f1b502132b9ab7836978c097173dfc000f1683c0d24b48b:5e38f7ac75ff07f10e432d8c23e78b3a",
-    "refreshToken": "710c51e42570f4259ccd3c51640ee9d8b965e29fdf4d9f9abceffe2cfe69c86f5aea27dc5a19c210801d60d8fd9f12950093405a278c05c406b5d22a4e8e6d863349ae70cc4e257b4c1c9cb3a6319b3de4c5a20bc33e4d87563b917ebc:57d1d00064144010d4a5ee292706db90",
-    "instanceUrl": "https://foxdcg--foxuat.my.salesforce.com",
-    "loginUrl": "https://test.salesforce.com/",
-    "username": "nagendra.balachandra@fox.paladin.com.uat",
-    "clientId": "PlatformCLI"
-}

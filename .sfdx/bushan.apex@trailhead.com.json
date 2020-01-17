@@ -1,9 +1,0 @@
-{
-    "orgId": "00Df4000003mHbzEAE",
-    "accessToken": "f7d7a1a7994b541e3218cda45b0dc0adeec41eb90c341d2ca34045dcf976fa57997d988e59299f932eacc937e932c33ad465e034426df317053ea47e8e5899c03b8f6a9eade549ddce768cb56f2008b0c39a67717ab88e1f1e3f232787b7fb70d2103a96d3c08d095e0d361d9abd4788a21910b472a2:9f7f6b05d51c53e23bb76d6dd1a50953",
-    "refreshToken": "7a0759734e0b4e8fc46a009aa90ac8d0638235a31a85c74861b275d161d7f0e90807998ac361d61af0ca794e25fde12014c098b76d6e8139e92120494049bd0b069fafd457626fcb4d734354f21c16bf700c948b1221a5637efc9bbb76:9703320d4b1fde3fff6724554e916bd2",
-    "instanceUrl": "https://na59.salesforce.com",
-    "loginUrl": "https://login.salesforce.com/",
-    "username": "bushan.apex@trailhead.com",
-    "clientId": "PlatformCLI"
-}

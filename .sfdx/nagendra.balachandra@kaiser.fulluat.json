@@ -1,9 +1,0 @@
-{
-    "orgId": "00Dm00000003UCpEAM",
-    "accessToken": "88599a02f9df3202d5d7e8baa69631e008682e1573fc645df8e839b40d63879f2d51e09a8f0468713d8c38a69662934a014c7e6319240632c484b6f60f3fc0a670fe54a6f208f439f818112e03727bc35f161f68c82fb6225bfae0040ffec559b5919394412f9cd5e03863ed83e4084cd95e8e65532b:6feec407d4fa1342675768b448d7720b",
-    "refreshToken": "ea00a5f8973ce2ddf5916b2cdbf9c2b03abfa3bc31ae54a016496d6c1f8866d176414aaaea50cdaaaca4fb27035898f7d6bd03c66f219a9a964e40574b7bc4fa3113adb92846a48f1ce2c1dc8608cd141f027950972d20a67b3196b498:b8fc150c7d04a7e6007edceb238fa757",
-    "instanceUrl": "https://kpnationalclaims--fulluat.my.salesforce.com",
-    "loginUrl": "https://test.salesforce.com/",
-    "username": "nagendra.balachandra@kaiser.fulluat",
-    "clientId": "PlatformCLI"
-}

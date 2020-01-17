@@ -1,9 +1,0 @@
-{
-    "orgId": "00D230000000mV3EAI",
-    "accessToken": "0a01a62ac0c877335d02e84bc2b2a15fedec3dfb59f8543b29b9d12e7828619a4397372e3bba286e5bb498886c24abb1f37a1d64d06fe242d04921a3433c7de09ee8b174b4bcf0b568d6ceb45044fc21df6dc774df2a5859cdde09e5d9cd17e0e1ef08c70672f4e9cc43a8b8f305fa566b724553692a:50a9165276a17ee983cb9fd496f73af0",
-    "refreshToken": "189b2e41d33a4137276a0d30d415ba89a207cdbab2f92c864d67ad2d11414ecf0c75a004a0674e5be533bcf31f7f8722ab6ffa2dd451c698444335d055ab772eba106504103e432ea042ab64e44537b11bed1ebebf823191675cdc83a5:7f2e961d73e8543a2ccf0943f4a19f8f",
-    "instanceUrl": "https://cbs-ams--billions.cs28.my.salesforce.com",
-    "loginUrl": "https://cbs-ams--billions.cs28.my.salesforce.com/",
-    "username": "nagendra.balachandra@showtime.net.billions",
-    "clientId": "PlatformCLI"
-}

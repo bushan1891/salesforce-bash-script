@@ -1,9 +1,0 @@
-{
-    "orgId": "00D6C0000009RGnUAM",
-    "accessToken": "0805d59aedf93ec1185180e88236fc472450e4010f4289f4722686f8e17b86a5fa0cd617500adb82efb0555a8950b7cd368ea7a125077f02e408e37016d816dfdf8b6246dfb47b89ed0a9b6a21ebef72cefb076d4655515aa5bb83c9fbf4c98fa03069170ca0b5be6d19a4f3a1ae1ff5cd126d61bcb2:d7d35b03dd47167633b02f94bc1b485e",
-    "refreshToken": "c84c6d4f35e8cb56d1dc70046f1fb3502a0aaef70c4f794875aec1ccaebaafa5b2c9ef20e452765bf599bdf21bd5b7f42766f520dc038b47b2c4a70af5a908bf8ed3f0f1ecbdb0529cfe6a1417055034c84dbeb891d17c9f6467573289:8a1d84d093f9019bbc36168a981b3f41",
-    "instanceUrl": "https://stibosystems--PartnerDev.cs63.my.salesforce.com",
-    "loginUrl": "https://test.salesforce.com/",
-    "username": "nagendra.balachandra@stibosystems.com.partnerdev",
-    "clientId": "PlatformCLI"
-}
