@@ -23,5 +23,6 @@ jobs:
         cd /
         ls -la
         cd bin
-        
+        ls -la
+        pwd
         
