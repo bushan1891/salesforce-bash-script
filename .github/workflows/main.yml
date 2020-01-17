@@ -20,3 +20,4 @@ jobs:
         tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
         ./sfdx/install
         sfdx force:org:list --help
+        ls -la
