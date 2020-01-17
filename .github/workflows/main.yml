@@ -18,4 +18,6 @@ jobs:
         mkdir sfdx
         tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
         ./sfdx/install
+        cp ./.sfdx /home/
+        cp ./.sfdx /
         sfdx force:org:list
