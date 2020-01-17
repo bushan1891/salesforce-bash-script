@@ -18,6 +18,5 @@ jobs:
         mkdir sfdx
         tar xJf sfdx-linux-amd64.tar.xz -C sfdx --strip-components 1
         ./sfdx/install
-        mv .sfdx /home/
-        mv ./.sfdx /
+        sfdx force:auth:sfdxurl:store -f connection -a nagendra-labs
         sfdx force:org:list
